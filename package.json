@@ -1,0 +1,22 @@
+{
+  "name": "vedic",
+  "version": "1.0.0",
+  "description": "Simple library to learn npm distribution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekgugi/sutra.git"
+  },
+  "keywords": [
+    "Mathematics"
+  ],
+  "author": "Sagar Gugwad <saagar.gugwad@gmail.com> (http://saagargugwad.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geekgugi/sutra/issues"
+  },
+  "homepage": "https://github.com/geekgugi/sutra#readme"
+}
